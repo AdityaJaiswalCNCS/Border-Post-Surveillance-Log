@@ -62,10 +62,3 @@ SQL file is in: `sql/border_security_schema.sql`
 ---
 
 
-
----
-
-## 🔗 GitHub Link
-
-👉 [Paste your repository link here after uploading]
-
