@@ -28,22 +28,21 @@ Follow these steps to set up and run the project on your local machine.
 
 1. Open **XAMPP** and start **Apache** & **MySQL**.
 2. Open your browser → go to `http://localhost/phpmyadmin`.
-3. Create a new database named: `border_security`.
+3. Create a new database named `border_security`.
 4. Import the SQL file from the `sql/border_security_schema.sql`.
 
 ### 🔹 Step 2: Setup in BlueJ
 
 1. Open BlueJ and open this project.
 2. Go to `Project > Use Library > Add External JARs` and add the MySQL JDBC connector JAR file.
-3. Make sure in the code, database credentials are:
-   - **Username**: `root`
-   - **Password**: *(empty string)*
+3. Username: DEFENCE
+  Password: 123
 
 ### 🔹 Step 3: Run the App
 
 1. Compile all `.java` files.
 2. Right-click on `BorderlogGUI` → click `void main(String[] args)`.
-3. App GUI will open → you can add logs and save them to the database.
+3. App GUI will open.
 
 ---
 
