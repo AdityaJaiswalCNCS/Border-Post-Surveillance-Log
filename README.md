@@ -14,6 +14,14 @@ A simple GUI-based logging system for border security personnel. Built using Jav
 
 ---
 
+
+
+## 🛠️ Project Setup
+
+Follow these steps to set up and run the project on your local machine.
+
+
+
 ## ⚙️ How to Run the Project
 
 ### 🔹 Step 1: Set up the Database
