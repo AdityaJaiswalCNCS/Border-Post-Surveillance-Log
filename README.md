@@ -1,6 +1,6 @@
 # Border-Post-Surveillance-Log
 
-A simple GUI-based logging system for border security personnel. Built using Java (BlueJ) and connected to a MySQL database using JDBC via XAMPP.
+A simple GUI-based logging system for border security personnel. Built using Java (BlueJ) and connected to a MySQL (phpMyAdmin)  database using JDBC via XAMPP.
 
 ---
 
