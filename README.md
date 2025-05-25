@@ -7,7 +7,7 @@ A simple GUI-based logging system for border security personnel. Built using Jav
 ## 💻 Requirements
 
 - BlueJ IDE
-- Java JDK (version 8 or above)
+- Java JDK (version 17 or above)
 - XAMPP Control Panel
 - MySQL (phpMyAdmin)
 - MySQL JDBC Connector
@@ -35,8 +35,7 @@ Follow these steps to set up and run the project on your local machine.
 
 1. Open BlueJ and open this project.
 2. Go to `Project > Use Library > Add External JARs` and add the MySQL JDBC connector JAR file.
-3. Username: DEFENCE
-  Password: 123
+
 
 ### 🔹 Step 3: Run the App
 
